@@ -137,19 +137,19 @@
                 <Description></Description>
                 <Value xsi:type='typens:ArrayOfDouble'>
                   <Double>0</Double>
-                  <Double>80</Double>
                   <Double>81</Double>
-                  <Double>116</Double>
+                  <Double>81</Double>
                   <Double>117</Double>
-                  <Double>161</Double>
+                  <Double>117</Double>
                   <Double>162</Double>
-                  <Double>239</Double>
+                  <Double>162</Double>
                   <Double>240</Double>
-                  <Double>497</Double>
+                  <Double>240</Double>
                   <Double>498</Double>
-                  <Double>958</Double>
+                  <Double>498</Double>
                   <Double>959</Double>
-                  <Double>5000</Double>
+                  <Double>959</Double>
+                  <Double>5001</Double>
                 </Value>
                 <IsDataset>false</IsDataset>
               </AnyType>
